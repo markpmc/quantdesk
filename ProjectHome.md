@@ -1,0 +1,3 @@
+**Quant Desk** is an easy-to-use, comprehensive, and unique stock market investment application which includes an advanced stock screener, portfolio tracker, charting, technical analysis, and social collaboration features that are seamlessly integrated in new and powerful ways. **Quant Desk** is free, and runs on Microsoft Windows.
+
+Check out the FeatureList and ProjectGoals for additional details.
